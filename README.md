@@ -14,9 +14,5 @@ Furthermore, I designed and implemented a user-friendly form on the third page t
 
 Additionally, I developed a dedicated support page aimed at assisting users in reporting any issues they encounter on the website or with their orders. This user-centric support interface serves as a valuable resource for addressing concerns promptly and ensuring a smooth resolution process, enhancing overall user satisfaction and engagement.
 
-
-This is FetchGoats' website and LinkedIn to look at for more clairty. 
-https://fetchgoat.com/
-https://www.linkedin.com/company/fetchgoat/
-
+If you would like more information, please visit https://fetchgoat.com/ and https://www.linkedin.com/company/fetchgoat/. Please note that the company's portal is confidential and access is limited to clients and internal stakeholders.
 
