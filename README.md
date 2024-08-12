@@ -1,5 +1,5 @@
 # FetchGoat
-Enclosed is a summary of the impactful contributions I made during my tenure at FetchGoat. Given the confidential nature of the company's portal, accessible exclusively to clients and internal stakeholders, this description provides a glimpse into my achievements. My dedicated efforts spanned from January 2023 to the conclusion of November 2023.
+Enclosed is a summary of the impactful contributions I made during my time at FetchGoat. Given the confidential nature of the company's portal, accessible exclusively to clients and internal stakeholders, this description provides a glimpse into my achievements. My dedicated efforts spanned from January 2023 to the conclusion of November 2023.
 
 [ERe_Portfolio (1).docx](https://github.com/EmiReese/FetchGoat/files/13864845/ERe_Portfolio.1.docx)
 [ERe_Portfolio.docx](https://github.com/EmiReese/FetchGoat/files/13864844/ERe_Portfolio.docx)
